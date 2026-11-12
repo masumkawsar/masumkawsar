@@ -11,7 +11,7 @@
   <a href="https://masumkawsar.github.io/Md_Masum_Kawsar_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-555?style=flat&logo=readthedocs&logoColor=white" alt="CV"></a>
   <a href="https://www.linkedin.com/in/masumkawsar/"><img src="https://img.shields.io/badge/LinkedIn-masumkawsar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://orcid.org/0009-0005-3020-6274"><img src="https://img.shields.io/badge/ORCID-0009--0005--3020--6274-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <img src="https://img.shields.io/badge/Seeking-PhD%20in%20IoT%20%2F%20Edge%20AI-2ea44f?style=flat" alt="Seeking PhD">
+  <img src="https://img.shields.io/badge/Open%20to-research%20collaboration-2ea44f?style=flat" alt="Open to research collaboration">
 </p>
 
 ---
@@ -23,7 +23,7 @@ hardware (circuit design, sensor calibration, hand-wired ESP32 prototypes) to th
 deployments, open datasets) to the model (TinyML exported as C code and benchmarked on the device), and
 I evaluate it with careful statistics (nested grouped cross-validation, multiple seeds, Wilcoxon tests with Holm correction).
 
-I am looking for a **PhD position in IoT / Edge AI / IoT Security in the USA**, where I want to work on:
+The questions I am working on next:
 
 - **Reliable TinyML on cheap sensors**: models that stay accurate when sensors drift, age and change with humidity
 - **IoT intrusion detection that works on real networks**, not only on the dataset it was trained on
@@ -114,4 +114,4 @@ Time-series forecasting · Explainable AI (SHAP, Grad-CAM) · Transfer learning 
 
 ---
 
-<p align="center"><i>Open to PhD opportunities and research collaborations in IoT, Edge AI and IoT security. Feel free to reach out.</i></p>
+<p align="center"><i>Open to research collaborations in IoT, Edge AI and IoT security. Feel free to reach out.</i></p>
