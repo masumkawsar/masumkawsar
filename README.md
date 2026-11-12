@@ -1,7 +1,7 @@
 <h1 align="center">Md Masum Kawsar</h1>
 
 <p align="center">
-  <b>IoT Systems · Edge AI &amp; TinyML · IoT Security · Embedded Machine Learning · Low-Cost Sensing</b><br>
+  <b>IoT Systems · Edge AI &amp; TinyML · IoT Security · Embedded Machine Learning · Sensor Systems</b><br>
   BSc in Computer Science &amp; Engineering, Daffodil International University, Bangladesh (2026)
 </p>
 
@@ -18,16 +18,22 @@
 
 ### 🔬 About me
 
-I build **low-cost IoT systems that run machine learning directly on microcontrollers**. My work goes from the
-hardware (circuit design, sensor calibration, hand-wired ESP32 prototypes) to the data (long field
+I build **IoT systems that run machine learning at the edge**, close to the sensors that collect the data. My work goes from the
+hardware (circuit design, sensor calibration, hand-wired prototypes) to the data (long field
 deployments, open datasets) to the model (TinyML exported as C code and benchmarked on the device), and
 I evaluate it with careful statistics (nested grouped cross-validation, multiple seeds, Wilcoxon tests with Holm correction).
 
+So far I have built these systems on low-cost hardware such as the **ESP32**, because that is what I had access to.
+Low cost is a constraint I know how to design for, not a limit on what I want to build. I am eager to work with
+**richer multi-sensor setups and more capable edge hardware** (ARM-based boards, Raspberry Pi, NVIDIA Jetson,
+LoRa/BLE sensor networks) to build larger and more ambitious IoT systems.
+
 The questions I am working on next:
 
-- **Reliable TinyML on cheap sensors**: models that stay accurate when sensors drift, age and change with humidity
+- **Reliable sensing at the edge**: models that stay accurate when sensors drift, age and respond to their environment
+- **Multi-sensor IoT systems** that combine several sensor types for richer and more robust decisions
 - **IoT intrusion detection that works on real networks**, not only on the dataset it was trained on
-- **Explainable, resource-aware ML** for devices with kilobytes of memory and microseconds per decision
+- **Explainable, resource-aware ML** across the edge, from kilobyte-scale microcontrollers to more capable edge processors
 
 ---
 
