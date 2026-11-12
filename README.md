@@ -1,7 +1,7 @@
 <h1 align="center">Md Masum Kawsar</h1>
 
 <p align="center">
-  <b>IoT Systems · Edge AI &amp; TinyML · IoT Security · Embedded Machine Learning · Sensor Systems</b><br>
+  <b>Smart IoT Systems · Edge AI &amp; TinyML · IoT Security · Embedded Machine Learning · Sensor Systems</b><br>
   BSc in Computer Science &amp; Engineering, Daffodil International University, Bangladesh (2026)
 </p>
 
@@ -11,6 +11,7 @@
   <a href="https://masumkawsar.github.io/Md_Masum_Kawsar_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-555?style=flat&logo=readthedocs&logoColor=white" alt="CV"></a>
   <a href="https://www.linkedin.com/in/masumkawsar/"><img src="https://img.shields.io/badge/LinkedIn-masumkawsar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://orcid.org/0009-0005-3020-6274"><img src="https://img.shields.io/badge/ORCID-0009--0005--3020--6274-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://scholar.google.com/citations?user=l1JX234AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <img src="https://img.shields.io/badge/Open%20to-research%20collaboration-2ea44f?style=flat" alt="Open to research collaboration">
 </p>
 
@@ -18,7 +19,7 @@
 
 ### 🔬 About me
 
-I build **IoT systems that run machine learning at the edge**, close to the sensors that collect the data. My work goes from the
+I build **smart IoT systems that run machine learning at the edge**, close to the sensors that collect the data. My work goes from the
 hardware (circuit design, sensor calibration, hand-wired prototypes) to the data (long field
 deployments, open datasets) to the model (TinyML exported as C code and benchmarked on the device), and
 I evaluate it with careful statistics (nested grouped cross-validation, multiple seeds, Wilcoxon tests with Holm correction).
