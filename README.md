@@ -7,6 +7,8 @@
 
 <p align="center">
   <a href="mailto:masumkawsarpavel@gmail.com"><img src="https://img.shields.io/badge/Email-masumkawsarpavel%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://masumkawsar.github.io"><img src="https://img.shields.io/badge/Website-masumkawsar.github.io-0f6b5c?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://masumkawsar.github.io/Md_Masum_Kawsar_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-555?style=flat&logo=readthedocs&logoColor=white" alt="CV"></a>
   <a href="https://www.linkedin.com/in/masumkawsar/"><img src="https://img.shields.io/badge/LinkedIn-masumkawsar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://orcid.org/0009-0005-3020-6274"><img src="https://img.shields.io/badge/ORCID-0009--0005--3020--6274-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
   <img src="https://img.shields.io/badge/Seeking-PhD%20in%20IoT%20%2F%20Edge%20AI-2ea44f?style=flat" alt="Seeking PhD">
