@@ -41,7 +41,7 @@ The questions I am working on next:
 ### 📌 Research projects
 
 #### 1. Low-Cost Indoor Air Quality Monitoring and Short-Term Forecasting on ESP32 (TinyML)
-*Submitted to SN Computer Science*
+*Submitted to SN Computer Science (Springer)*
 
 - Designed and hand-wired an **ESP32 + Winsen MP-135 MOS gas sensor + DHT22** monitor; collected **46,897 readings over 17 days** in an occupied room in Dhaka
 - Built a **humidity- and temperature-compensated, drift-robust relative Pollution Index** using a rolling 3-hour baseline
@@ -51,7 +51,7 @@ The questions I am working on next:
 📂 [Dataset (DOI 10.5281/zenodo.23888099)](https://github.com/masumkawsar/indoor-air-quality-esp32-dataset) · 🌐 [Live dashboard web app](https://github.com/masumkawsar/room-air-monitor)
 
 #### 2. Local Labels Beat Public Data: Cross-Network Evaluation of Lightweight, Explainable IoT Intrusion Detectors
-*Submitted to SN Computer Science*
+*Submitted to SN Computer Science (Springer)*
 
 - Evaluated **five model families and nine microcontroller-sized models** on **four public NetFlow-v2 datasets**, over 10 seeds with Holm-corrected Wilcoxon tests
 - Showed that detectors with **0.94 MCC within a dataset fall to about zero on other networks** (62% of cross-dataset pairs below 0.5 ROC-AUC) and explained why with **SHAP and distribution-shift analysis**
@@ -76,8 +76,8 @@ The questions I am working on next:
 ### 📄 Publications
 
 1. M. A. Mridu, **M. M. Kawsar**. "Comparative Study of Optimized ANN and SVM Models for Environmental Sound Classification with Practical Web-Based Deployment." *Indian Journal of Computer Science and Technology (INDJCST)*, Vol. 5, Issue 2, pp. 904–910, 2026. [doi:10.59256/indjcst.20260502098](https://doi.org/10.59256/indjcst.20260502098)
-2. **M. M. Kawsar**. "Low-Cost Indoor Air Quality Monitoring and Short-Term Forecasting on ESP32 Using a Humidity-Compensated MOS Sensor and TinyML." *Submitted to SN Computer Science.*
-3. **M. M. Kawsar**, M. A. Mridu. "Local Labels Beat Public Data: Cross-Network Evaluation of Lightweight and Explainable IoT Intrusion Detectors." *Submitted to SN Computer Science.*
+2. **M. M. Kawsar**. "Low-Cost Indoor Air Quality Monitoring and Short-Term Forecasting on ESP32 Using a Humidity-Compensated MOS Sensor and TinyML." *Submitted to SN Computer Science (Springer).*
+3. **M. M. Kawsar**, M. A. Mridu. "Local Labels Beat Public Data: Cross-Network Evaluation of Lightweight and Explainable IoT Intrusion Detectors." *Submitted to SN Computer Science (Springer).*
 4. M. A. Mridu, **M. M. Kawsar**. "Comparative Evaluation of Machine Learning and Transfer-Learning-Based Deep Learning Models for Explainable Glaucoma Detection from Retinal Fundus Images." *Submitted to NetMAHIB.*
 
 ---
