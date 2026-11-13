@@ -60,7 +60,7 @@ The questions I am working on next:
 📂 [Code, notebook and ESP32 benchmark](https://github.com/masumkawsar/iot-ids-cross-network)
 
 #### 3. Explainable Glaucoma Detection from Retinal Fundus Images
-*Submitted to Network Modeling Analysis in Health Informatics and Bioinformatics*
+*Submitted to Network Modeling Analysis in Health Informatics and Bioinformatics (Springer)*
 
 - Compared SVM, XGBoost, DenseNet121 and EfficientNetB3 on ~6,000 fundus images, using HOG, LBP and color-histogram features, transfer learning and **Grad-CAM**
 - **DenseNet121: 90.33% accuracy, 97.13 AUC**; deployed as *GlaucomaDetect*, a Flask web app
@@ -78,7 +78,7 @@ The questions I am working on next:
 1. M. A. Mridu, **M. M. Kawsar**. "Comparative Study of Optimized ANN and SVM Models for Environmental Sound Classification with Practical Web-Based Deployment." *Indian Journal of Computer Science and Technology (INDJCST)*, Vol. 5, Issue 2, pp. 904–910, 2026. [doi:10.59256/indjcst.20260502098](https://doi.org/10.59256/indjcst.20260502098)
 2. **M. M. Kawsar**. "Low-Cost Indoor Air Quality Monitoring and Short-Term Forecasting on ESP32 Using a Humidity-Compensated MOS Sensor and TinyML." *Submitted to SN Computer Science (Springer).*
 3. **M. M. Kawsar**, M. A. Mridu. "Local Labels Beat Public Data: Cross-Network Evaluation of Lightweight and Explainable IoT Intrusion Detectors." *Submitted to SN Computer Science (Springer).*
-4. M. A. Mridu, **M. M. Kawsar**. "Comparative Evaluation of Machine Learning and Transfer-Learning-Based Deep Learning Models for Explainable Glaucoma Detection from Retinal Fundus Images." *Submitted to NetMAHIB.*
+4. M. A. Mridu, **M. M. Kawsar**. "Comparative Evaluation of Machine Learning and Transfer-Learning-Based Deep Learning Models for Explainable Glaucoma Detection from Retinal Fundus Images." *Submitted to NetMAHIB (Springer).*
 
 ---
 
